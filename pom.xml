@@ -1,0 +1,82 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+	<modelVersion>4.0.0</modelVersion>
+
+	<groupId>com.stg</groupId>
+	<artifactId>yad</artifactId>
+	<version>0.0.1-SNAPSHOT</version>
+	<packaging>pom</packaging>
+
+	<name>Yet Another Yad</name>
+	<description>Gestion de récursion</description>
+
+	<inceptionYear>2018</inceptionYear>
+
+	<organization>
+		<name>My Cie</name>
+		<url>http://myCie.com</url>
+	</organization>
+
+	<modules>
+		<module>yad-model</module>
+		<module>yad-core</module>
+		<module>yad-service</module>
+		<module>yad-view</module>
+	</modules>
+
+
+	<!-- #################### SCM #################### -->
+	<!--TODO -->
+
+	<!-- #################### Distribution #################### -->
+	<distributionManagement>
+		<repository>
+			<!-- TODO -->
+		</repository>
+		<snapshotRepository>
+			<!-- TODO -->
+		</snapshotRepository>
+	</distributionManagement>
+
+	<!-- #################### Repository #################### -->
+	<repositories>
+		<repository>
+			<!-- TODO -->
+		</repository>
+		<repository>
+			<!-- TODO -->
+		</repository>
+
+	</repositories>
+
+	<pluginRepositories>
+		<pluginRepository>
+			<!-- TODO -->
+		</pluginRepository>
+	</pluginRepositories>
+
+	<properties>
+			<!-- TODO -->
+	</properties>
+
+	<build>
+			<!-- TODO -->
+
+		<plugins>
+			<!-- TODO -->
+
+		</plugins>
+
+		<pluginManagement>
+			<!-- TODO -->
+		</pluginManagement>
+	</build>
+
+
+
+	<dependencyManagement>
+		<dependencies>
+			<!-- TODO -->
+		</dependencies>
+	</dependencyManagement>
+</project>
+<B></B>
